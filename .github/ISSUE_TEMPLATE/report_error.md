@@ -1,3 +1,10 @@
+---
+name: Reporte de Error
+about: pantilla para el registro de errores
+title: "[BUG] Descripción breve"
+labels: bug
+assignees: ''
+---
 ## 🐞 Título del Bug
 Breve descripción del problema (1 línea).
 
